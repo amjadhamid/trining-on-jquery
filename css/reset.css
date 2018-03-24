@@ -1,0 +1,12 @@
+/* font*/
+@import url )'https://font....');
+
+/*0 auto*/
+body , html , * { 
+margin: opx;
+padding:0px;
+font family:   ;
+-webkit-font-smoothing: antialiased;
+p{
+	padding: 80px;
+}
